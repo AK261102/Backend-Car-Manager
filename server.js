@@ -10,7 +10,7 @@ const app = express();
 
 // Middleware
 const cors = require('cors');
-const express = require('express');
+
 
 const corsOptions = { 
   origin: [
